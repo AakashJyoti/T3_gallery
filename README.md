@@ -2,6 +2,7 @@
 
 - Make a deploy (vercel)
 - Scaffold basic ui with mock data
+- Tidy up build process
 - Actually setup database (vercel postgres)
 - Attach database to UI
 - Add authentication (w/ cleak)
